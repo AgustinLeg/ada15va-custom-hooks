@@ -1,6 +1,6 @@
 # Custom Hooks
 
-### Crear un custom de un contador
+### Crear un custom hook de un contador
 
 - El hook debe aceptar un parámetro que sea el valor inicial del contador, que por defecto sea 0.
 - Debe tener la funcionalidad de sumar, restar y resetear el contador.
